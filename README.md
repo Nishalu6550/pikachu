@@ -70,7 +70,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@pikachucreator/pikachu-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://github.com/muhammednishalu/pikachu)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://github.com/Nishalu6550/pikachu)
      </div>
 <br>
 <br >
